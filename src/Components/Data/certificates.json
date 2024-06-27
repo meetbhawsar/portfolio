@@ -1,0 +1,24 @@
+[
+    {
+      "title": "MERN Stack Training Certificate",
+      "imageSrc": "../images/Certificates/completion.jpg",
+      "institution": "Institution : EdTech Savers",
+      "Duration": "August 2022 - January 2023",
+      "Description": ""
+    },
+    {
+      "title": "Internship Completion Certificate",
+      "imageSrc": "../images/Certificates/internship.jpg",
+      "institution": "Company : Digital Savers Pvt Ltd.",
+      "Duration": "April 2023 - June 2023",
+      "Description": ""
+    },
+    {
+      "title": "WordPress Workshop Certificate",
+      "imageSrc": "../images/Certificates/wordpress.jpg",
+      "institution": "Organizer",
+      "Duration": " 29 April to 1 May 2023",
+      "Description": "Attended an intensive workshop on WordPress development, covering themes, plugins, and website customization."
+    }
+  ]
+  

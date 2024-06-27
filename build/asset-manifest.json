@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2563a705.css",
+    "main.js": "/static/js/main.b07d4eae.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/Mitali Bhawsar Resume.pdf": "/static/media/Mitali Bhawsar Resume.856957ef4336f725cb17.pdf",
+    "index.html": "/index.html",
+    "main.2563a705.css.map": "/static/css/main.2563a705.css.map",
+    "main.b07d4eae.js.map": "/static/js/main.b07d4eae.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2563a705.css",
+    "static/js/main.b07d4eae.js"
+  ]
+}

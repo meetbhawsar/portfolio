@@ -1,0 +1,75 @@
+.tabs{
+    width: 780px;
+    height: 360px;
+    padding: 30px 20px ;
+    box-shadow: 5px 5px 10px 5px rgba(101,175,10, 0.5);
+    overflow: hidden;
+}
+.tabs .tab-header > div:hover ,
+.tabs .tab-header > div.active {
+    color: yellowgreen;
+}
+.color-yellowgreen{
+    color: yellowgreen;
+}
+.tabs .tab-header{
+    float: left;
+    width: fit-content;
+    height: 100%;
+    border-right: 1px solid yellowgreen;
+    padding: 50px 0px;
+}
+.tabs .tab-header > div {
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.tabs .tab-content {
+    position: relative;
+    height: 100%;
+    overflow: hidden;
+}
+.tabs .tab-content > div.content {
+    position: absolute;
+    /* text-align: center; */
+    padding: 40px 20px;
+    top: -200%;
+}
+.tabs .tab-content > div.active .show-content {
+    top: 0px;
+}
+
+@media screen  and (min-width: 320px) and (max-width: 480px) {
+    .tabs{
+        margin: 5px;
+        /* border: 2px solid red; */
+        width: fit-content;
+        height: fit-content;
+    }
+    .tabs .tab-header{
+        float: none;
+        /* border: 2px solid yellow; */
+        width: fit-content;
+        padding: 0;
+        display: flex;
+        height: fit-content;
+        margin-bottom:10px ;
+        border-bottom: 2px solid yellowgreen;
+        border-right: 0px;
+    }
+    .tabs h5{
+        font-size: 14px;
+    }
+    .tabs .tab-content{
+        /* border: 2px solid red; */
+        padding: 5px 12px;
+    }
+    .tabs .tab-content .active h2{
+        /* border: 2px solid red; */
+        font-size: 23px;
+    }
+}

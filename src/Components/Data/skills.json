@@ -1,0 +1,37 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "../images/skillImages/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "../images/skillImages/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "../images/skillImages/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "../images/skillImages/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "../images/skillImages/node.png"
+  },
+  
+  {
+    "title": "MongoDB",
+    "imageSrc": "../images/skillImages/mongodb.png"
+  },
+  
+  {
+    "title": "WordPress",
+    "imageSrc": "../images/skillImages/wordpress.png"
+  },
+  
+  {
+    "title": "GitHub",
+    "imageSrc": "../images/skillImages/github.png"
+  }
+]
